@@ -21,6 +21,3 @@ echo "Fourth operation is: ${computation[operation4]}"
 
 
 
-
-
-
